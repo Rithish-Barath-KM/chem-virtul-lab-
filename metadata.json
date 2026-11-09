@@ -1,0 +1,6 @@
+{
+  "name": "Molecular X",
+  "description": "Explore the Molecular Universe: An interactive cheminformatics laboratory for visualizing, analyzing, and screening chemical compounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
